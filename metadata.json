@@ -1,0 +1,10 @@
+{
+  "name": "Activity ",
+  "description": "Comprehensive personal phone activity tracker with call & app logs, message previews, system usage analytics, SIM & hotspot monitoring, encrypted local storage, and chronological daily timeline.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
